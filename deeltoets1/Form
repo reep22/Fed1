@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<meta name="description" content="Free Web tutorials">
+	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+	<meta name="author" content="Hege Refsnes">
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="form.css" />
+</head>
+<body>
+	<form>
+	<h2>Contactgegevens</h2>
+		<label for"naam">Naam:</label>
+		<input type=text id="naam" placeholder="vul je naam in">
+
+        <label for"naam">Bedrijf:</label>
+		<input type=text id="naam1" placeholder="vul je bedrijf in">
+
+        <label for"naam">Adres:</label>
+		<input type=text id="naam1" placeholder="vul je adres in">
+
+        <label for"naam">Postcode:</label>
+		<input type=text id="naam4" placeholder="vul je postcode in">
+
+        <label for"naam">Plaats:</label>
+		<input type=text id="naam1" placeholder="vul je Plaats in">
+
+        <label for"naam">Telefoon:</label>
+		<input type=text id="naam1" placeholder="vul je telefoon in">
+
+		<label for"naam">E-mail:</label>
+		<input type=text id="naam1" placeholder="vul je E-mail in">
+
+      <h3>Ik wil mijn aanmelden</h3>
+      
+        <label for"naam">Voor project:</label>
+	    <input type="checkbox" id="naam5" name="vehicle" value="Bike">
+        
+        <label for"naam">Voor stagebedrijf:</label>
+	    <input type="checkbox" id="naam6" name="vehicle" value="Bike">
+
+       <h2>Project</h2>
+
+		<label for"naam">Titel:</label>
+		<input type=text id="naam" placeholder="vul je titel in">
+
+        <label for"naam">Opdrachtomschrijving:</label>
+		<input type=text id="naam1" placeholder="vul je opdrachtsomschrijving in">
+
+        <label for"naam">Doelgroepomschrijving:</label>
+		<input type=text id="naam1" placeholder="vul je doelgroepomschrijving in">
+
+        <label for"naam">Doelstelling/intentie van het project:</label>
+		<input type=text id="naam4" placeholder="vul je doelstelling in">
+
+        <label for"naam">Looptijd:</label>
+		<input type=text id="naam1" placeholder="vul je looptijd in">
+
+        <label for"naam">Deadline:</label>
+		<input type=text id="naam1" placeholder="vul je dealine in">
+      
+      <h3>Geschikt voor:</h3>
+
+        <label for"naam">1.Eerstejaars studenten:</label>
+	    <input type="checkbox" id="naam5" name="vehicle" value="Bike">
+        
+        <label for"naam">2.Tweedejaars studenten:</label>
+	    <input type="checkbox" id="naam6" name="vehicle" value="Bike">
+
+        <label for"naam">3.Derdejaars studenten:</label>
+	    <input type="checkbox" id="naam5" name="vehicle" value="Bike">
+        
+        <label for"naam">4.Afstudeer studenten:</label>
+	    <input type="checkbox" id="naam6" name="vehicle" value="Bike">
+
+        <label for"naam">5.Onbekend:</label>
+	    <input type="checkbox" id="naam6" name="vehicle" value="Bike">
+      
+      <h2>Stage</h2>
+
+        <h3>Geschikt voor:</h3>
+          <label for"naam">1.Tweedejaars studenten:</label>
+	      <input type="checkbox" id="naam5" name="vehicle" value="Bike">
+        
+          <label for"naam">2.Afstudeer studenten:</label>
+	      <input type="checkbox" id="naam6" name="vehicle" value="Bike">
+
+          <label for"naam">3.Onbekend:</label>
+	      <input type="checkbox" id="naam5" name="vehicle" value="Bike">
+   
+      <h3>1.Hoe lang is de stage?</h3>
+          <label for"naam">- 10 weken:</label>
+	      <input type="checkbox" id="naam5" name="vehicle" value="Bike">
+        
+          <label for"naam">- 20 weken:</label>
+	      <input type="checkbox" id="naam6" name="vehicle" value="Bike">
+
+	  <h3>2.Begin datum</h3>
+
+	      <input type="date" name="bday">
+
+	  <h3>Beschrijving stagewerkzaamheden</h3>
+
+	  <label for"naam">Beschrijving stagewerkzaamheden:</label>
+		<input type=text id="naam" placeholder="Beschrijving stagewerkzaamheden">
+
+	  <h3>Beschrijving stagebedrijf</h3>
+
+        <label for"naam">Bedrijfsnaam:</label>
+		<input type=text id="naam" placeholder="vul je bedrijfsnaam in">
+
+        <label for"naam">Adres:</label>
+		<input type=text id="naam1" placeholder="vul je adres in">
+
+        <label for"naam">Postcode:</label>
+		<input type=text id="naam4" placeholder="vul je postcode in">
+
+        <label for"naam">Plaats:</label>
+		<input type=text id="naam1" placeholder="vul je Plaats in">
+
+        <label for"naam">Sector:</label>
+		<input type=text id="naam1" placeholder="vul je sector in">
+
+        <label for"naam">Core business:</label>
+		<input type=text id="naam1" placeholder="vul je core business in">
+	      
+        <h3>Opmerkingen</h3>
+
+        <label for"naam">Opmerkingen:</label>
+		<input type=text id="naam1" placeholder="vul je opmerkingen in">
+	</form>
+</body>
+</html>
